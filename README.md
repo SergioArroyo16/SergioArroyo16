@@ -2,21 +2,20 @@
 
 ###
 
-<div align="center">
-  <img height="219" src="https://img.freepik.com/vector-premium/escritorio-programador_1302-14802.jpg"  />
-</div>
-
-###
-
 <p align="left">Mi nombre es Sergio Arroyo, soy Ingeniero en Sistemas Computacionales y resido en la Ciudad de México. <br>¡Mucho gusto!☺️</p>
 
 ###
+
 
 <h2 align="left">Acerca de mí...</h2>
 
 ###
 
 <p align="left">✨ Comprometido en continuar con su desarrollo profesional<br>📚 Constantemente practico codificación en mis tiempos libres.<br>🎯 Mi meta es especializarme en el lado del servidor Back-End con Java y colaborar con nuevas personas en el área.</p>
+
+<div align="center">
+  <img height="219" src="https://img.freepik.com/vector-premium/escritorio-programador_1302-14802.jpg"  />
+</div>
 
 ###
 
