@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="219" src="https://img.freepik.com/vector-premium/escritorio-programador_1302-14802.jpg"  />
+</div>
+
+###
+
 <p align="left">Mi nombre es Sergio Arroyo, soy Ingeniero en Sistemas Computacionales y resido en la Ciudad de México. <br>¡Mucho gusto!☺️</p>
 
 ###
@@ -38,11 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="219" src="https://img.freepik.com/vector-premium/escritorio-programador_1302-14802.jpg"  />
-</div>
 
 ###
 
